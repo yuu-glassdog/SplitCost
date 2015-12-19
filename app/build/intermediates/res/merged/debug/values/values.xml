@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/13t232/AndroidStudioProjects/SplitCost/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/13t232/AndroidStudioProjects/SplitCost/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Money">金額：</string>
+    <string name="People">人</string>
+    <string name="Yen">円</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">SplitCost</string>
+    <string name="calc">計算</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="money">金額</string>
+    <string name="numPeople">人数：</string>
+    <string name="oneMoney">一人当たりの金額</string>
+    <string name="people">人</string>
+    <string name="reset">リセット</string>
+    <string name="result">××××</string>
+    <string name="yen">円</string>
+    <!-- From: file:/C:/Users/13t232/AndroidStudioProjects/SplitCost/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
